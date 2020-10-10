@@ -16,7 +16,7 @@ pip2 install requests
 
 ## Instalacion
 ```
-git clone https://github.com/barba99/cc_checher
+git clone https://github.com/ThonyDroidYT/cc_checher
 cd cc_checher
 chmod +x cc-new.py
 ```
@@ -33,4 +33,3 @@ chmod +x cc-new.py
 ## Por favor deje su estrella
 
 ## 请离开你的明星
-
